@@ -1,0 +1,13 @@
+.menuItem {
+    padding: 5px;
+    background-color: azure;
+    height: 20px;
+}
+
+.menuItem > a{
+    text-decoration: none;
+}
+
+.menuItem:hover {
+    background-color: cadetblue;
+}
