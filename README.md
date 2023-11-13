@@ -1,1 +1,1 @@
-# P-pravn-kurz
+# Pripravny kurz
